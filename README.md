@@ -1,5 +1,15 @@
 # CodeIgniter 4 Framework
 
+##Pour deploiyer le projet
+
+Cloner le ptojet sur votre bureau
+Accceder au dossier portant le projet en ligne de commande
+et faite :
+
+- php spark serve
+
+En suite le server sera lancer sur le http://localhost:8080
+
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
